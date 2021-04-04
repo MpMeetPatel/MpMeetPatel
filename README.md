@@ -8,13 +8,13 @@ My name is Meet Patel and I'm a software developer (JavaScript boy). You can fin
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpmeetpatel&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpmeetpatel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&icon_color=000&bg_color=1c1c1c%22%20alt=%22Martin%27s%20GitHub%20Stats" />
 </a> 
-
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpmeetpatel&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/___meetpatel___
