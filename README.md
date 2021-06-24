@@ -1,4 +1,4 @@
-<a href="https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/" target="_blank">
+<a href="https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/" target="_new">
   <img align="center" src="https://m.media-amazon.com/images/I/41AQxY22PxL.jpg" />
 </a>
 
