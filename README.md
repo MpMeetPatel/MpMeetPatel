@@ -1,4 +1,6 @@
-[![Header](https://m.media-amazon.com/images/I/41AQxY22PxL.jpg "Header")](https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/)
+<a href="https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/">
+  <img align="center" src="https://m.media-amazon.com/images/I/41AQxY22PxL.jpg" />
+</a>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
