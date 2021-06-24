@@ -1,4 +1,4 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C4D16AQGSVH1KjiXnoQ/profile-displaybackgroundimage-shrink_200_800/0/1610563117225?e=1623283200&v=beta&t=m17c6vUnM3mPTpg7l2ersMKnMJA619HmhLN4_QzwNl4 "Header")](https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/)
+[![Header](https://m.media-amazon.com/images/I/41AQxY22PxL.jpg "Header")](https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
