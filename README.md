@@ -30,9 +30,6 @@ Preview : [https://sprinklebeta.ml](https://sprinklebeta.ml).
 </a>
 
 
-## &#x1f4c8; GitHub Stats
-
-
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/___meetpatel___
