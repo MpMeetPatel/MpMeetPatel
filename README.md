@@ -7,8 +7,6 @@ My name is Meet Patel and I'm a software developer (JavaScript boy). You can fin
 
 # Sprinkle - World Class Low Code Builder!
 
-Preview : [https://sprinklebeta.ml](https://sprinklebeta.ml).
-
 <a href="https://sprinklebeta.ml" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/MpMeetPatel/MpMeetPatel/master/demo.png" />
 </a>
