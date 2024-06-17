@@ -3,7 +3,7 @@
 
 My name is Meet Patel and I'm a software developer (JavaScript boy). You can find me here 
 <br />
-[![Twitter][twitter-shield]][twitter-url] [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 # Sprinkle - World Class Low Code Builder!
 
@@ -34,10 +34,7 @@ Preview : [https://sprinklebeta.ml](https://sprinklebeta.ml).
 
 [1]: https://twitter.com/___meetpatel___
 [2]: https://github.com/mpmeetpatel
-[3]: https://www.linkedin.com/in/meetpatel-professional/
 
-[linkedin-url]: https://www.linkedin.com/in/meetpatel-professional/
 [twitter-url]: https://twitter.com/___meetpatel___
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
