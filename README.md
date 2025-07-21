@@ -5,11 +5,30 @@ My name is Meet Patel and I'm a software developer (JavaScript boy). You can fin
 <br />
 [![Twitter][twitter-shield]][twitter-url]
 
-# Sniffhunt - Advanced AI-driven URL-to-Markdown converter!
 
-<a href="https://github.com/MpMeetPatel/sniffhunt-scraper" target="_blank">
-  <img align="center" src="https://github.com/MpMeetPatel/sniffhunt-scraper/blob/main/assets/quick-start.gif" />
-</a>
+<div align="center">
+
+# 🚀Creator of SniffHunt Scraper
+<img src="https://github.com/MpMeetPatel/sniffhunt-scraper/blob/main/assets/logo.png" alt="SniffHunt Logo" width="200px">
+
+
+## **The Best-in-Class URL-to-LLM-Ready Markdown Engine** ✨🧠🔍
+
+🔍 Transform any web interface SPAs, dynamic dashboards, or complex content layers into semantically structured, LLM-optimized Markdown with human-level intelligence. **Outperforms FireCrawl, Jina Reader, and other paid solutions while running entirely on your local machine.**
+
+### 🏆 Superior to Paid Alternatives
+| Feature | SniffHunt | FireCrawl (/extract) | Jina Reader | Others |
+|---------|-----------|-----------|-------------|---------|
+| **Cost** | 🆓 Free & Open Source | 💰 $99-799/month | 💰 usage-based | 💰 $50-1000/month |
+| **Privacy** | 🔒 100% Local | ☁️ Cloud-based | ☁️ Cloud-based | ☁️ Cloud-based |
+| **AI Intelligence** | 🧠 Cognitive DOM modeling | ⚡ Basic extraction | 📄 Text-only | 📄 Limited |
+| **Interactive Content** | ✅ Full UI interaction | ❌ Static only | ❌ Static only | ❌ Limited |
+| **LLM Optimization** | 🎯 Purpose-built | 📝 Generic output | 📝 Generic output | 📝 Basic |
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/mpmeetpatel/sniffhunt-scraper)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
+
+</div>
 
 # Author - Advanced JavaScript Visualized !
 
