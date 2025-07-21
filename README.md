@@ -5,10 +5,10 @@ My name is Meet Patel and I'm a software developer (JavaScript boy). You can fin
 <br />
 [![Twitter][twitter-shield]][twitter-url]
 
-# Sprinkle - World Class Low Code Builder!
+# Sniffhunt - Advanced AI-driven URL-to-Markdown converter!
 
-<a href="https://sprinklebeta.ml" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/MpMeetPatel/MpMeetPatel/master/demo.png" />
+<a href="https://github.com/MpMeetPatel/sniffhunt-scraper" target="_blank">
+  <img align="center" src="https://github.com/MpMeetPatel/sniffhunt-scraper/blob/main/assets/quick-start.gif" />
 </a>
 
 # Author - Advanced JavaScript Visualized !
@@ -24,7 +24,7 @@ My name is Meet Patel and I'm a software developer (JavaScript boy). You can fin
 <br />
 
 <a href="https://www.amazon.in/Advanced-JavaScript-Visualized-Meet-Patel-ebook/dp/B08SNXC66S/" target="_blank">
-  <img align="center" src="https://m.media-amazon.com/images/I/41AQxY22PxL.jpg" />
+  <img align="center" src="https://m.media-amazon.com/images/I/41AQxY22PxL.jpg" width="200px" />
 </a>
 
 
