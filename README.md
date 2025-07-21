@@ -9,8 +9,9 @@ My name is Meet Patel and I'm a software developer (JavaScript boy). You can fin
 <div align="center">
 
 # 🚀Creator of SniffHunt Scraper
-<img src="https://github.com/MpMeetPatel/sniffhunt-scraper/blob/main/assets/logo.png" alt="SniffHunt Logo" width="200px">
-
+<a href="https://github.com/MpMeetPatel/sniffhunt-scraper">
+  <img src="https://github.com/MpMeetPatel/sniffhunt-scraper/blob/main/assets/logo.png" alt="SniffHunt Logo" width="200px">
+</a>
 
 ## **The Best-in-Class URL-to-LLM-Ready Markdown Engine** ✨🧠🔍
 
